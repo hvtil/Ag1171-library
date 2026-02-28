@@ -1,0 +1,29 @@
+#######################################
+# AG1171 Library Keywords
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ag1171	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+powerUp	KEYWORD2
+powerDown	KEYWORD2
+startRinging	KEYWORD2
+stopRinging	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RING_DURATION_MS	LITERAL1
+RING_FREQUENCY	LITERAL1
+RING_ON_MS	LITERAL1
+RING_OFF_MS	LITERAL1
