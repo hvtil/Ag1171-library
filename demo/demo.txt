@@ -1,30 +1,30 @@
             ┌────────────────────┐
-            │     Drukknop             │
-            │   (D2 → GND)             │
+            │     Drukknop       │
+            │   (D2 → GND)       │
             └─────────┬──────────┘
-                         │
-                         ▼
+                      │
+                      ▼
             ┌────────────────────┐
-            │    D1 Mini               │
-            │    ESP8266               │
-            │                          │
-            │    FR → D7               │
-            │    RM → D6               │
-            │    PD → D1               │
-            │    SHK ← D5              │
+            │    D1 Mini         │
+            │    ESP8266         │
+            │                    │
+            │    FR → D7         │
+            │    RM → D6         │
+            │    PD → D1         │
+            │    SHK ← D5        │
             └─────────┬──────────┘
-                         │
-                         ▼
+                      │
+                      ▼
             ┌────────────────────┐
-            │      AG1171              │
-            │       SLIC               │
-            │                          │
-            │    Ring Generator        │
-            │    Line Driver           │
-            │    Hook Detect          │
+            │      AG1171        │
+            │       SLIC         │
+            │                    │
+            │    Ring Generator  │
+            │    Line Driver     │
+            │    Hook Detect     │
             └─────────┬──────────┘
-                         │
-                     TIP / RING
-                         │
-                         ▼
-                      Telefoon
+                      │
+                  TIP / RING
+                      │
+                      ▼
+                   Telefoon
